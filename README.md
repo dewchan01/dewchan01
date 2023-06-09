@@ -1,5 +1,5 @@
 ## Hi there! 👋 I'm De Wei
-
+<img src="https://komarev.com/ghpvc/?username=dewchan01&style=for-the-badge&color=blue" alt=""/>
 <details>
 <summary>🧑🏻‍💻 I’m currently working as a final year EEE student in NTU, preparing final year project in developing a blockchain app. Technologies that I have been learning so far:</summary>
 
@@ -200,7 +200,6 @@
 
 <details>
   <summary>📊 GitHub Stats:</summary>
-
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=dewchan01&show_icons=true" alt="Your Name's GitHub Stats" width="40%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewchan01&layout=compact" alt="Your Name's Top Languages" width="40%"/>

@@ -194,12 +194,12 @@
 <summary>📫 How to reach me:</summary>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/de-wei-chan/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deweichan@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deweichan@gmail.com)
   
 </details>
 
 <details>
-  <summary>📊 GitHub Stats:</summary>
+  <summary>📊 My GitHub Stats:</summary>
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=dewchan01&show_icons=true" alt="Your Name's GitHub Stats" width="40%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewchan01&layout=compact" alt="Your Name's Top Languages" width="40%"/>

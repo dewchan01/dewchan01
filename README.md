@@ -1,12 +1,10 @@
-<div align="center" style="position: relative;">
+<div align="center">
   <img src="assets/banner.gif">
 </div>
 
-
 <div align= "center">
-<details>
-<summary>🧑🏻‍💻 Tech stacks</summary>
-<br></br>
+<div>
+<h2 style="font-size:20px" >🧑🏻‍💻 Tech stacks</h2>
 
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
@@ -25,20 +23,18 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-</details>
+</div>
 
-<details style="text-align: center;">
-<summary>📫 Connect me</summary>
-<br></br>
+<div style="text-align: center;">
+<h2 style="font-size:20px"> 📫 Connect me </h2>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/de-wei-chan/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deweichan@gmail.com)
   
-</details>
+</div>
 
-<details style="text-align: center;">
-  <summary>📊 My GitHub Stats</summary>
-  <br></br>
+<div style="text-align: center;">
+  <h2 style="font-size:20px">📊 My GitHub Stats</h2>
 
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=dewchan01&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
   <img align="center" width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=dewchan01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />

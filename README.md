@@ -1,9 +1,8 @@
-<div align="center" style="background:url(assets/galaxy-pixel-art.gif)">
-
-<img src="https://media.giphy.com/media/Hb1m3Eo7Brsdk2ywQF/giphy.gif" width="50vh" height="50vw" alt=""/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+De+Wei+%F0%9F%91%8B%F0%9F%8F%BB;A+curious+uni+student+immersing+in+the+digital+realm+)](https://git.io/typing-svg)
+<div align="center" style="position: relative;">
+  <img src="assets/banner.gif">
 </div>
+
+
 <div align= "center">
 <details>
 <summary>🧑🏻‍💻 Tech stacks</summary>
@@ -38,7 +37,7 @@
 </details>
 
 <details style="text-align: center;">
-  <summary>📊 My GitHub Stats:</summary>
+  <summary>📊 My GitHub Stats</summary>
   <br></br>
 
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=dewchan01&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />

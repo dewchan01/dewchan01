@@ -1,5 +1,6 @@
 <div align="center">
   <img src="assets/galaxy-pixel-art.gif">
+  <h1>Hello, I'm De Wei👋🏻</h1>
 </div>
 
 <div align= "center">
